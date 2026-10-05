@@ -27,10 +27,17 @@
 ---
 
 ### 🤖 Bilvantis — AI Intern *(Jun 2025 – Aug 2025)*
-- Developed intelligent **chatbot prototypes** using **Large Language Models (LLMs)** for real-time conversations and task automation
-- Integrated **LangChain**, **Hugging Face Transformers**, and **REST APIs** to build **agentic pipelines** combining reasoning and action-taking
-- Connected **AI systems to external tools and APIs** for autonomous responses and data-driven decision-making
-- Worked across ideation → prototyping → testing using **Git**, **FastAPI**, and cloud automation tools
+• Developed an AI-powered code review automation tool integrating GitLab Merge Requests and GitHub Pull Requests to analyze
+code changes, identify potential issues, and generate actionable, line-specific feedback.
+• Built a Chrome extension injecting a custom “NeoAI Review” interface directly into GitLab Merge Requests and GitHub Pull
+Requests, enabling developers to trigger automated AI code reviews within their workflow.
+• Developed FastAPI backend services to retrieve pull/merge request changes, process code diffs, and orchestrate OpenAI-powered
+code analysis using REST APIs and GitHub/GitLab integrations.
+• Implemented diff and hunk parsing with line-number mapping to associate AI-generated findings with changed source-code lines,
+automating inline review comments through GitLab APIs with a separate GitHub integration.
+• Worked across Python, JavaScript, FastAPI, OpenAI APIs, Git, GitHub/GitLab, REST APIs, and Chrome Extension APIs to
+build an end-to-end developer productivity and shift-left testing solution.
+
 
 ---
 
